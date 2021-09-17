@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "9bd217da9b68865a",
+    "type": "split",
+    "children": [
+      {
+        "id": "45b0bde2b467c274",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Temp.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d5a6a981eb0db3a2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vim.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac5ff15eb316ed92",
+    "type": "split",
+    "children": [
+      {
+        "id": "ede5b2fcc2ab5d55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8fb765e20f4c5e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6d3e2fbcef95d76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 198
+  },
+  "right": {
+    "id": "2d3c9d799c5bdca1",
+    "type": "split",
+    "children": [
+      {
+        "id": "89832a143ff29188",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe201b3e82a4f93e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Temp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "45b0bde2b467c274",
+  "lastOpenFiles": [
+    "Temp.md",
+    "Vim.md",
+    "UNIX.md",
+    "Linux.md",
+    "Unix.md",
+    "Untitled.md",
+    "Tmux.md"
+  ]
+}
