@@ -4,26 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "45b0bde2b467c274",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Temp.md",
-            "mode": "source"
+        "id": "e5637d11b4e30a01",
+        "type": "split",
+        "children": [
+          {
+            "id": "58c9b181e33775b3",
+            "type": "split",
+            "dimension": 59.033816425120776,
+            "children": [
+              {
+                "id": "45b0bde2b467c274",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Capture.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "97026776027a8cbb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Capture.md",
+                    "mode": "preview"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "723d642aae44abc3",
+            "type": "leaf",
+            "dimension": 40.96618357487923,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp.md",
+                "mode": "source"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "0e6402125c6fdb34",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Temp.md",
-            "mode": "preview"
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -97,14 +124,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0e6402125c6fdb34",
+  "active": "723d642aae44abc3",
   "lastOpenFiles": [
     "Temp.md",
+    "Capture.md",
+    "Untitled.md",
     "Vim.md",
     "UNIX.md",
     "Linux.md",
     "Unix.md",
-    "Untitled.md",
     "Tmux.md"
   ]
 }

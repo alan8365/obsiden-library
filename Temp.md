@@ -1,30 +1,4 @@
-# Temp
-
-## Processing
-
-> My work flow now
-> order by timeline and think through 
-> need be clean every week
-
-### 0916-17
-
-- [ ] Figure out what is soft computing
-- [ ] pick up seminar paper
-	- [ ] browse all interest journal
-		- [ ] list all interest
-			- [x] Understand evolution computing
-			- [ ] Understand Feature selection
-- [ ] Blockchain begining research
-	- [ ] solidity
-
-### 0916-16
-
-- [ ] mysql in docker
-
-### 0915-14
-
-- [ ] docker for code generator env
-- [ ] WSL 1 to WSL 2 on santiago
+# Temp knowledge
 
 ## Reasearch from processing
 
@@ -68,3 +42,15 @@ Recent Trends in Deep Learning Based Natural Language Processing [Review Article
 ### Soft computing
 
 Soft computing is a set of algorithms, including neural networks, fuzzy logic, and genetic algorithms.These algorithms are tolerant of imprecision, uncertainty, partial truth and approximation. It is contrasted with hard computing: algorithms which finds provably correct and optimal solutions to problems.
+
+### Memetic
+
+The study of information and culture based on an analogy with Darwinian evolution.
+
+### Pattern analysis
+
+### Pattern recognition
+
+### Survey paper
+
+paper that **summarizes and organizes recent research results in** a novel way that integrates and adds understanding to work in the field
