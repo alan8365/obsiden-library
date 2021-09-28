@@ -6,6 +6,15 @@
 > order by timeline and think through 
 > need be clean every week
 
+### 0925
+
+- [ ] Hadoop
+	- [ ] HDMS (Hadoop Distributed File System)
+- [x] SVM
+- [ ] Parallel SVM
+	- [ ] Quadratic Programing Problem
+- [ ] PySaprk
+
 ### 0916-17
 
 - [ ] Figure out what is soft computing

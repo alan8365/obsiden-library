@@ -4,53 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "e5637d11b4e30a01",
+        "id": "58c9b181e33775b3",
         "type": "split",
         "children": [
           {
-            "id": "58c9b181e33775b3",
-            "type": "split",
-            "dimension": 59.033816425120776,
-            "children": [
-              {
-                "id": "45b0bde2b467c274",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Capture.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "97026776027a8cbb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Capture.md",
-                    "mode": "preview"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "723d642aae44abc3",
+            "id": "45b0bde2b467c274",
             "type": "leaf",
-            "dimension": 40.96618357487923,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp.md",
+                "file": "Capture.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "97026776027a8cbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SVM.md",
                 "mode": "source"
               }
             }
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -106,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temp.md",
+                "file": "SVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "723d642aae44abc3",
+  "active": "97026776027a8cbb",
   "lastOpenFiles": [
-    "Temp.md",
+    "SVM.md",
+    "Temp knowledge.md",
     "Capture.md",
     "Untitled.md",
-    "Vim.md",
-    "UNIX.md",
+    "Temp.md",
+    "Tmux.md",
     "Linux.md",
-    "Unix.md",
-    "Tmux.md"
+    "Paper reflections/Parallel SVM model for forest fire prediction.md",
+    "Paper reflections/Untitled.md",
+    "Vim.md"
   ]
 }

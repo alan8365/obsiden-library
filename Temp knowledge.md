@@ -54,3 +54,7 @@ The study of information and culture based on an analogy with Darwinian evolutio
 ### Survey paper
 
 paper that **summarizes and organizes recent research results in** a novel way that integrates and adds understanding to work in the field
+
+### Hadhoop
+
+### PySpark
